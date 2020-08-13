@@ -10,3 +10,13 @@
     Running cat /proc/meminfo shows that we have more than 7GB of memory and upto 2.5GB is free. We can extend the driver and executor memroies by 1GB each and make them to 2GB instead of the default 1GB 
     spark.executor.memory
     spark.driver.memory
+
+sources
+https://knowledge.udacity.com/questions/180201
+https://knowledge.udacity.com/questions/131619
+https://spark.apache.org/docs/1.6.1/configuration.html
+https://spark.apache.org/docs/latest/api/python/pyspark.sql.html?#pyspark.sql.SparkSession
+https://spark.apache.org/docs/latest/configuration.html
+https://spark.apache.org/docs/latest/web-ui.html
+https://knowledge.udacity.com/questions/123410
+https://knowledge.udacity.com/questions/72289
